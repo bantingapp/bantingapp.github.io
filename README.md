@@ -12,7 +12,6 @@ Static site for https://bantingapp.github.io/ (GitHub Pages). Plain HTML plus on
 | `privacy.html` | Privacy policy (use this URL in Google Play and in the app) |
 | `terms.html` | Terms of use |
 | `delete-account.html` | Account and data deletion page (URL required by Google Play Data safety) |
-| `community-guidelines.html` | Community guidelines |
 | `contact.html` | Support contact |
 
 ## Placeholders to replace
